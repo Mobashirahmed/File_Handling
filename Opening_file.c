@@ -4,7 +4,7 @@
 int main(){
     FILE *fp;
     fp = fopen("file.txt", "w");
-    fprintf( fp, "%s", "This is a txt file crated using C programming." );
+    fprintf( fp, "%s", "This is a txt file created using C programming." );
     fp = fopen("file.txt", "r");
     return 0;
 }

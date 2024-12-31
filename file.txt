@@ -1,1 +1,1 @@
-This is a txt file crated using C programming.
+This is a txt file created using C programming.
